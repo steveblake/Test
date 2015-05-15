@@ -22,6 +22,8 @@
   document.write("<hr>");
   
   
+  
+
   var square = new Object() {
       length: 5,
       width: 5,
